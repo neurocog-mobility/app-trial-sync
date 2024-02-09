@@ -1,0 +1,88 @@
+#container-app { 
+    height: 100vh;
+    display:flex;
+    flex-direction:column;
+  }
+  
+#pnl-head {height: fit-content; margin: 40px;}
+
+#pnl-main {
+    flex: 1;
+    display:flex;
+    flex-direction:row
+}
+
+#pnl-app {
+    flex: 1;
+    position: relative;
+}
+
+#lbl-time {
+    position: absolute;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 70%;
+    font-size: 3vh;
+    color: slategrey;
+}
+#lbl-trial {
+    position: absolute;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    font-size: 5vh;
+}
+
+#btn-start {
+    position: absolute;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 30%;
+}
+
+.fixation {
+    border-radius: 50%;
+    aspect-ratio: 1;
+    background-color: black;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.active {
+    background-color: #B4BE00;
+}
+
+.valid {
+    color: #B4BE00;
+}
+
+.invalid {
+    color: #D93F00;
+}
+
+.rule {
+    position: absolute;
+    background-color: black;
+    width: 50px;
+    height: 20px;
+}
+
+.btn-xl {
+    margin: 16px;
+    padding: 2vh 2vh;
+    font-size: 1.5vh;
+    border-radius: 10px;
+}
+
+.btn-xxl {
+    margin: 16px;
+    padding: 2vh 2vh;
+    font-size: 3vh;
+    font-weight: bold;
+    border-radius: 10px;
+}

@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <script lang="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.0/FileSaver.min.js"></script>
+    <script src="./src/js/bootstrap.js"></script>
+    <script src="./src/js/jquery.js"></script>
+    <link rel="stylesheet" href="./src/scss/main.css">
+    <link rel="stylesheet" href="./src/scss/style.css">
+    <title>Time Sync App</title>
+</head>
+<body>
+    <div id="container-app">
+        <div id="pnl-head">
+            <nav class="navbar bg-body-dark">
+                <div class="container-fluid">
+                  <div style="margin-right: auto; margin-left: auto; margin-bottom: 16px;">
+                    <a class="navbar-brand text-white" href="#" style="font-size: 2vh">
+                        Neurocognition & Mobility Lab: Time Logger
+                    </a>
+                </div>
+                <div style="margin: auto;">
+                    <button id="btn-save" class="btn btn-warning btn-xl" style="margin: auto;">Export</button>
+                </div>
+                </div>
+            </nav>
+        </div>
+        <div id="pnl-main">
+            <div id="pnl-app" class="bg-white">
+                <div id="lbl-time">--</div>
+                <div id="lbl-trial">Trial: </div>
+                <button id="btn-start" class="btn btn-success btn-xxl">Start</button>
+            </div>
+        </div>
+    </div>
+
+</body>
+<script src="./src/js/main.js"></script>
+</html>
