@@ -28,8 +28,30 @@
         <div id="pnl-main">
             <div id="pnl-app" class="bg-white">
                 <div id="lbl-time">--</div>
-                <div id="lbl-trial">Trial: </div>
+                <div id="pnl-trial" class="bg-white">
+                    <div id="lbl-trial">Trial: 1</div>
+                    <div id="pnl-inc">
+                        <button id="btn-dec" class="btn btn-dark btn-xl">-</button>
+                        <button id="btn-inc" class="btn btn-dark btn-xl">+</button>
+                    </div>
+                </div>
                 <button id="btn-start" class="btn btn-success btn-xxl">Start</button>
+                <button id="btn-stop" class="btn btn-danger btn-xxl">Stop</button>
+            </div>
+            <div id="pnl-tbl" class="bg-white">
+                <table class="table table-striped">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">Trial #</th>
+                            <th scope="col">Event</th>
+                            <th scope="col">Timestamp</th>
+                            <th scope="col">Mark</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbl-body">
+
+                    </tbody>
+                </table>
             </div>
         </div>
     </div>
