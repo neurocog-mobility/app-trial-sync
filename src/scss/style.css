@@ -7,9 +7,9 @@
 #pnl-head {height: fit-content; margin: 40px;}
 
 #pnl-main {
-    flex: 1;
+    flex: content;
     display:flex;
-    flex-direction:column
+    flex-direction:column-reverse
 }
 
 #pnl-app {
@@ -32,7 +32,7 @@
     flex-direction:column;
     transform: translate(-50%,-50%);
     left: 50%;
-    top: 60%;
+    top: 50%;
     justify-content: center;
     align-items: center;
     width: 60vw;
