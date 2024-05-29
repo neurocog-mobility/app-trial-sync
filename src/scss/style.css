@@ -1,7 +1,7 @@
 #container-app { 
     height: 100vh;
     display:flex;
-    flex-direction:row;
+    flex-direction:column;
   }
   
 #pnl-head {height: fit-content; margin: 40px;}
@@ -26,8 +26,8 @@
 }
 
 #pnl-trial {
-    position: absolute;
-    flex: 1;
+    position: relative;
+    /* flex: 1; */
     display:flex;
     flex-direction:column;
     transform: translate(-50%,-50%);
@@ -39,8 +39,8 @@
 }
 
 #pnl-tbl {
-    flex: 1;
-    position: relative;
+    /*!  flex: 1; */
+    /*! position: relative; */
 }
 
 #lbl-time {
