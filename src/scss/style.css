@@ -23,6 +23,9 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    top: -20vh;
+    padding-bottom: 100px;
+    margin-top: 122px;
 }
 
 #pnl-trial {
@@ -30,9 +33,7 @@
     /* flex: 1; */
     display:flex;
     flex-direction:column;
-    transform: translate(-50%,-50%);
-    left: 50%;
-    top: 113%;
+    top: 39%;
     justify-content: center;
     align-items: center;
     width: 100vw;
@@ -54,8 +55,8 @@
 }
 #lbl-trial {
     text-align: center;
-    font-size: 4vh;
-    margin: 13vw;
+    font-size: 9vh;
+    margin: 0vw;
 }
 
 #btn-start {
