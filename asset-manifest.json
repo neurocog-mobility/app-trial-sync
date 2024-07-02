@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://https://neurocog-mobility.github.io/app-trial-sync/static/css/main.c65544fe.css",
-    "main.js": "https://https://neurocog-mobility.github.io/app-trial-sync/static/js/main.b0d31355.js",
-    "static/js/453.78ac2d93.chunk.js": "https://https://neurocog-mobility.github.io/app-trial-sync/static/js/453.78ac2d93.chunk.js",
-    "index.html": "https://https://neurocog-mobility.github.io/app-trial-sync/index.html",
-    "main.c65544fe.css.map": "https://https://neurocog-mobility.github.io/app-trial-sync/static/css/main.c65544fe.css.map",
-    "main.b0d31355.js.map": "https://https://neurocog-mobility.github.io/app-trial-sync/static/js/main.b0d31355.js.map",
-    "453.78ac2d93.chunk.js.map": "https://https://neurocog-mobility.github.io/app-trial-sync/static/js/453.78ac2d93.chunk.js.map"
+    "main.css": "https://neurocog-mobility.github.io/app-trial-sync/static/css/main.c65544fe.css",
+    "main.js": "https://neurocog-mobility.github.io/app-trial-sync/static/js/main.3d140506.js",
+    "static/js/453.78ac2d93.chunk.js": "https://neurocog-mobility.github.io/app-trial-sync/static/js/453.78ac2d93.chunk.js",
+    "index.html": "https://neurocog-mobility.github.io/app-trial-sync/index.html",
+    "main.c65544fe.css.map": "https://neurocog-mobility.github.io/app-trial-sync/static/css/main.c65544fe.css.map",
+    "main.3d140506.js.map": "https://neurocog-mobility.github.io/app-trial-sync/static/js/main.3d140506.js.map",
+    "453.78ac2d93.chunk.js.map": "https://neurocog-mobility.github.io/app-trial-sync/static/js/453.78ac2d93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c65544fe.css",
-    "static/js/main.b0d31355.js"
+    "static/js/main.3d140506.js"
   ]
 }
