@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//neurocog-mobility.github.io/app-trial-sync/static/css/main.e24fe956.css",
-    "main.js": "//neurocog-mobility.github.io/app-trial-sync/static/js/main.5f1b5252.js",
-    "static/js/453.78ac2d93.chunk.js": "//neurocog-mobility.github.io/app-trial-sync/static/js/453.78ac2d93.chunk.js",
-    "index.html": "//neurocog-mobility.github.io/app-trial-sync/index.html",
-    "main.e24fe956.css.map": "//neurocog-mobility.github.io/app-trial-sync/static/css/main.e24fe956.css.map",
-    "main.5f1b5252.js.map": "//neurocog-mobility.github.io/app-trial-sync/static/js/main.5f1b5252.js.map",
-    "453.78ac2d93.chunk.js.map": "//neurocog-mobility.github.io/app-trial-sync/static/js/453.78ac2d93.chunk.js.map"
+    "main.css": "http://localhost:3000/static/css/main.c65544fe.css",
+    "main.js": "http://localhost:3000/static/js/main.cdc48422.js",
+    "static/js/453.78ac2d93.chunk.js": "http://localhost:3000/static/js/453.78ac2d93.chunk.js",
+    "index.html": "http://localhost:3000/index.html",
+    "main.c65544fe.css.map": "http://localhost:3000/static/css/main.c65544fe.css.map",
+    "main.cdc48422.js.map": "http://localhost:3000/static/js/main.cdc48422.js.map",
+    "453.78ac2d93.chunk.js.map": "http://localhost:3000/static/js/453.78ac2d93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e24fe956.css",
-    "static/js/main.5f1b5252.js"
+    "static/css/main.c65544fe.css",
+    "static/js/main.cdc48422.js"
   ]
 }
